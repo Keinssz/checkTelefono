@@ -2,7 +2,7 @@
 
 -Per prima cosa dobbiamo scaricare il file da classroom e rinominarlo
 -Poi dobbiamo aprire la cartella su visual studio code
--Dopo inizia il vero programma\
+-Dopo inizia il vero programma
 
 -Prima di tutto dobbiamo scorrere ogni elemento dentro all'array usando un foreach:\
 
